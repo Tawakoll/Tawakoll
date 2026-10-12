@@ -3,7 +3,7 @@ Final year MSc Robotics Engineering student, University of Genoa (UniGe), With t
 
 Targeting my masters thesis and PhD towards Biomedical Robotics and Rehabilitation
 
-Coursework repositories, one per university course:
+Repositories : 
 
 | Repo | Description / University Course |
 |---|---|
