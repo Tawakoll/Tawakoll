@@ -1,6 +1,7 @@
 ### Mohamed Tawakol
-MSc Robotics Engineering, University of Genoa (UniGe)
-
+Final year MSc Robotics Engineering student, University of Genoa (UniGe)
+3 years requirement experience at Valeo
+1 year as a software engineer 
 Coursework repositories, one per university course:
 
 | Repo | Description / University Course |
